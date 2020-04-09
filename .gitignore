@@ -1,0 +1,15 @@
+
+*checkpoint.ipynb
+__pycache__/
+Cat_Dog_data
+*.pth
+*.pt
+**/data/raw
+**/cifar-cnn/data
+**/lfw
+**/dogImages
+**/data/dog_images
+**/data/lfw
+**/summer2winter_yosemite/
+**/processed_celeba_small/
+*.mp4
