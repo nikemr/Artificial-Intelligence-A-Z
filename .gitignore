@@ -13,3 +13,5 @@ Cat_Dog_data
 **/summer2winter_yosemite/
 **/processed_celeba_small/
 *.mp4
+*.ova
+*.part
